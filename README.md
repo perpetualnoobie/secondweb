@@ -7,9 +7,12 @@ Use an angle bracket to create a qoute, rendered as a different colored backgrou
 > like so
 
 also works with
+
 > # headers
 
+
 ## Code
+
 create linebreaks
 ***
 ___
@@ -46,8 +49,9 @@ define="variable" ;
 more <c++ , mc=% ht+>```
 
 header1 | header2 | header3
+
 <style>
-    h1 { 
+    h2 { 
         color:red
     }
 </style>
